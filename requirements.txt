@@ -1,0 +1,9 @@
+streamlit
+google-cloud-alloydb-connector[pg8000]
+google-cloud-spanner
+google-cloud-aiplatform
+pg8000
+langchain
+langchain-google-vertexai
+shapely
+google-cloud-discoveryengine
